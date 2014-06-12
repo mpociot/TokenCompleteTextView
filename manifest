@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Marcel Pociot
+license: MIT
+copyright: Marcel Pociot
+
+
+# these should not be edited
+name: tokentextview
+moduleid: de.marcelpociot.tokencompletetextview
+guid: 25a86981-4295-46be-952b-5a4f516a3177
+platform: android
+minsdk: 3.2.3.GA
